@@ -67,7 +67,10 @@ Many independent efforts are underway, here is one possibly useful view into the
 
 ### Structural Reforms
 - **DC Statehood**
-- **Puerto Rico Statehood**
+- **Puerto Rico Constitutional Status Assembly**
+    - Support a deliberative process for Puerto Ricans to determine their status
+    - Options could include statehood, enhanced commonwealth, free association, or independence
+    - Ensure full representation and self-determination in the process
 - **Defund ICE - Refund IRS**
 - **Enforce Existing Tax Laws and Fund Cities**
 - **Fast-track Pathway to Citizenship**
@@ -113,4 +116,15 @@ independent of power structures, some further out ideas
 ### mutual defense and aid pacts
 
 ### local currencies
+
+### housing works
+
+- **work-to-own housing program**
+    - pay minimum wage + home credits for building homes
+    - open to all including unhoused - immediate work opportunity
+    - skilled workers guide and train participants
+    - on-site temporary housing for workers
+    - builders get first purchase rights with forgivable mortgage
+    - 10-year owner-occupancy requirement for mortgage forgiveness
+    - combines immediate income, job training, and path to homeownership
 
