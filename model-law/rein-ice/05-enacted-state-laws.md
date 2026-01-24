@@ -79,8 +79,9 @@ Statewide protections - the strongest form of sanctuary policy.
 **Why It Matters:** Implementation guidance for AB 699 - practical templates for school districts.
 
 **Links:**
-- [Original Source (CA OAG PDF)](https://oag.ca.gov/sites/all/files/agweb/pdfs/bcj/school-guidance-model-k12.pdf)
-- [Local Copy](./source-docs/california-ag-school-guidance.pdf)
+- [CA OAG Guidance PDF](https://oag.ca.gov/system/files/media/school-guidance-model-k12.pdf)
+- [AG Bonta Press Release](https://oag.ca.gov/news/press-releases/attorney-general-bonta-releases-updated-guidance-help-california-schools)
+- [CA Dept of Education Letter](https://www.cde.ca.gov/nr/el/le/yr25ltr1209.asp)
 
 ---
 
@@ -98,8 +99,9 @@ Statewide protections - the strongest form of sanctuary policy.
 **Why It Matters:** Legal foundation for local sanctuary policies in New York.
 
 **Links:**
-- [Original Source (NY AG)](https://ag.ny.gov/sites/default/files/guidance_concerning_local_authority_participation_in_immigration_enforcement.pdf)
-- [Local Copy](./source-docs/ny-ag-local-authority-guidance.pdf)
+- [Current Guidance (Jan 2025 PDF)](https://ag.ny.gov/sites/default/files/2025-01/oag-immigrationenforcement-guidance.pdf)
+- [Previous Guidance with Supplements (PDF)](https://ag.ny.gov/sites/default/files/sanctuary_guidance_and_supplements.pdf)
+- [NY AG Immigration Enforcement Page](https://ag.ny.gov/police-departments-law-enforcement/immigration-enforcement)
 
 ---
 
@@ -136,8 +138,9 @@ Statewide protections - the strongest form of sanctuary policy.
 **Why It Matters:** Strong warrant requirement and explicit 287(g) prohibition.
 
 **Links:**
-- [Original Source (IL Legislature)](https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=3826&ChapterID=5)
-- [Local Copy](./source-docs/illinois-trust-act-sb31.pdf)
+- [Illinois TRUST Act (ILCS)](https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=3818)
+- [Bill Status Page](https://www.ilga.gov/legislation/BillStatus.asp?GA=100&DocTypeID=SB&DocNum=31&GAID=14&SessionID=91&LegID=98874)
+- [IL AG Law Enforcement Resources](https://illinoisattorneygeneral.gov/Safer-Communities/Resources-for-Law-Enforcement/Law-Enforcement-and-Immigration/)
 
 ---
 
@@ -156,8 +159,9 @@ Statewide protections - the strongest form of sanctuary policy.
 **Why It Matters:** Demonstrates executive action pathway (no legislation required).
 
 **Links:**
-- [Original Source (NJ OAG)](https://www.nj.gov/oag/dcj/agguide/directives/ag-directive-2018-6.pdf)
-- [Local Copy](./source-docs/nj-immigrant-trust-directive-2018.pdf)
+- [NJ OAG Immigrant Trust Page](https://www.njoag.gov/trust/)
+- [Directive v2.0 (PDF)](https://www.nj.gov/lps/dcj/agguide/directives/ag-directive-2018-6_v2.pdf)
+- [Directive Summary (PDF)](https://www.nj.gov/oag/newsreleases18/Immigration-Trust-Directive-Summary.pdf)
 
 ---
 

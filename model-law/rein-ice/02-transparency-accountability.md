@@ -21,9 +21,9 @@ Resources for oversight, disclosure requirements, and officer identification.
 
 ---
 
-## NILC Amicus Brief: Officer Identification (California Mask Ban)
+## Amicus Brief: Officer Identification (California Mask Ban)
 
-**Organization:** National Immigration Law Center (NILC)
+**Organizations:** Prosecutors Alliance Action, civil rights groups
 **Type:** Legal brief / precedent
 **Best For:** Advocates pushing for officer identification requirements
 
@@ -32,11 +32,11 @@ Resources for oversight, disclosure requirements, and officer identification.
 - Constitutional analysis of transparency requirements
 - Precedent for challenging anonymous enforcement
 
-**Key Issue:** Federal agents conducting enforcement without proper identification
+**Key Issue:** Federal agents conducting enforcement without proper identification. The FBI and U.S. Marshals Service have warned about crimes by individuals posing as federal agents.
 
 **Links:**
-- [Original Source](https://www.nilc.org/issues/immigration-enforcement/amicus-brief-supporting-california-laws-ban-on-law-enforcement-wearing-masks/)
-- [Local Copy](./source-docs/nilc-amicus-officer-identification.pdf)
+- [DOJ Lawsuit Info](https://www.justice.gov/opa/pr/justice-department-files-complaint-challenging-california-mask-ban-and-identification)
+- [California Law Background (CalMatters)](https://calmatters.org/justice/2025/12/immigration-mask-ban-new-law/)
 
 ---
 
@@ -70,8 +70,9 @@ Resources for oversight, disclosure requirements, and officer identification.
 **Key Issue:** FBI has documented crimes by impersonators posing as ICE agents. Identification requirements protect communities and support legitimate law enforcement.
 
 **Links:**
-- [News Coverage](https://sd07.senate.ca.gov/news/fbi-asks-ice-agents-identify-themselves-following-string-crimes-impersonators)
-- [Local Copy](./source-docs/california-sb627.pdf)
+- [Senator Wiener Announcement](https://sd11.senate.ca.gov/news/governor-newsom-signs-senator-wieners-ban-extreme-masking-ice-other-law-enforcement)
+- [Senator Arreguin Coverage](https://sd07.senate.ca.gov/news/fbi-asks-ice-agents-identify-themselves-following-string-crimes-impersonators)
+- [CalMatters Analysis](https://calmatters.org/newsletter/immigration-mask-ban-legislature/)
 
 ---
 
@@ -125,7 +126,8 @@ Resources for oversight, disclosure requirements, and officer identification.
 
 **Links:**
 - [Original Source (NYC Comptroller)](https://comptroller.nyc.gov/services/for-the-public/immigrant-workers-resource-guide/know-your-rights/your-rights-when-interacting-with-immigration-and-customs-enforcement-ice/)
-- [Local Copy](./source-docs/nyc-comptroller-know-your-rights.pdf)
+- [Immigrant Workers Resource Guide (PDF)](https://comptroller.nyc.gov/wp-content/uploads/documents/Immigrant-Workers-Resource-Guide_English.pdf)
+- [NYC MOIA Know Your Rights](https://www.nyc.gov/site/immigrants/legal-resources/know-your-rights-federal-immigration-enforcement-ice.page)
 
 ---
 
@@ -143,23 +145,27 @@ Resources for oversight, disclosure requirements, and officer identification.
 - Addresses concerns about unmarked enforcement
 
 **Links:**
-- [Bill Information](https://meng.house.gov/media-center/press-releases/meng-introduces-legislation-requiring-ice-agents-clearly-display-badges-and-agency-ties)
+- [Press Release](https://meng.house.gov/media-center/press-releases/meng-introduces-legislation-requiring-ice-agents-clearly-display-badges)
+- [Bill Text (Congress.gov)](https://www.congress.gov/bill/119th-congress/house-bill/4298/text)
 
 ---
 
 ### VISIBLE Act
 
 **Jurisdiction:** Federal (proposed)
-**Sponsor:** Rep. Nanette Barragán (CA)
+**Sponsors:** Senators Cory Booker (NJ), Alex Padilla (CA); Rep. Nanette Barragán (CA)
 **Status:** Introduced
 
 **Key Provisions:**
 - Requires ICE agents to remove masks during enforcement
-- Mandates clear identification
-- Responds to reports of masked agents during raids
+- Mandates clear identification (agency name/initials, name or badge number)
+- Prohibits non-medical face coverings that obscure identity
+- Requires DHS to establish disciplinary procedures for violations
 
 **Links:**
-- [Bill Information](https://barragan.house.gov/spectrum-news-lawmakers-introduce-visible-act-to-require-ice-agents-to-lose-their-masks/)
+- [Senator Booker Announcement](https://www.booker.senate.gov/news/press/booker-padilla-unveil-new-bill-to-require-immigration-officers-to-display-clear-identification)
+- [Senator Padilla One-Pager (PDF)](https://www.padilla.senate.gov/wp-content/uploads/VISIBLE-Act-One-Pager-updated.pdf)
+- [News Coverage (Spectrum)](https://barragan.house.gov/2025/07/29/spectrum-news-lawmakers-introduce-visible-act-to-require-ice-agents-to-lose-their-masks/)
 
 ---
 

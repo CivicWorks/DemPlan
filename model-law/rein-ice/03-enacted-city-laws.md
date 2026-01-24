@@ -19,8 +19,9 @@ Proven sanctuary ordinances from major cities - use as templates or precedent.
 **Why It Matters:** Oldest and most tested sanctuary policy in the nation. Has survived multiple legal challenges.
 
 **Links:**
-- [Original Source (SF Admin Code)](https://codelibrary.amlegal.com/codes/san_francisco/latest/sf_admin/0-0-0-2314)
-- [Local Copy](./source-docs/sf-sanctuary-ordinance.pdf)
+- [SF.gov Sanctuary City Info](https://www.sf.gov/information--sanctuary-city-ordinance)
+- [Chapter 12H - Immigration Status (Amlegal)](https://codelibrary.amlegal.com/codes/san_francisco/latest/sf_admin/0-0-0-7738)
+- [ACLU NorCal PDF](https://www.aclunorcal.org/docs/sanctuary_policy_san_francisco.pdf)
 
 ---
 
@@ -59,9 +60,9 @@ Proven sanctuary ordinances from major cities - use as templates or precedent.
 **Why It Matters:** Largest city in the U.S. with comprehensive sanctuary protections. Multiple overlapping policies provide layered defense.
 
 **Links:**
-- [NYC Admin Code](https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-4086)
-- [Council Resolution 1321-2016](https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=2873482&GUID=F6B6B2A2-2B6A-4B2A-8B2A-2B6A4B2A8B2A)
-- [Local Copy](./source-docs/nyc-sanctuary-policies.pdf)
+- [NYC Admin Code (Amlegal)](https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-1)
+- [Legal Services NYC - Sanctuary Protections](https://www.legalservicesnyc.org/resources/what-is-a-sanctuary-city-and-what-protections-do-i-have-in-nyc/)
+- [NY AG Sanctuary Guidance (PDF)](https://ag.ny.gov/sites/default/files/sanctuary_guidance_and_supplements.pdf)
 
 ---
 
@@ -80,18 +81,21 @@ Proven sanctuary ordinances from major cities - use as templates or precedent.
 **Why It Matters:** Major Midwest city with long-standing protections. Model for other cities in states without statewide sanctuary laws.
 
 **Links:**
-- [Original Source (Chicago Code)](https://codelibrary.amlegal.com/codes/chicago/latest/chicago_il/0-0-0-2465372)
-- [Local Copy](./source-docs/chicago-welcoming-city-ordinance.pdf)
+- [Chicago.gov Official PDF](https://www.chicago.gov/content/dam/city/depts/mayor/Office%20of%20New%20Americans/PDFs/WelcomeCityOrdinance.pdf)
+- [Chapter 2-173 (Amlegal)](https://codelibrary.amlegal.com/codes/chicago/latest/chicago_il/0-0-0-2605237)
+- [Mayor Johnson Reaffirmation (2025)](https://www.chicago.gov/city/en/depts/mayor/press_room/press_releases/2025/january/Reaffirming-Welcoming-City-Ordinance.html)
 
 ---
 
-## San Francisco Additional Resources
+## Los Angeles Additional Resources
 
-**Jurisdiction:** San Francisco, California
-**Additional Link:** City government summary page
+**Jurisdiction:** Los Angeles, California
+**Additional Links:** Council district resources
 
 **Links:**
-- [SF Gov OCEIA Summary](https://sfgov.org/oceia/sanctuary-city-ordinance-0)
+- [CD4 - Establishing LA as Sanctuary City](https://cd4.lacity.gov/newsletter/establishing-los-angeles-as-a-sanctuary-city/)
+- [CD14 - Know Your Rights Guide](https://cd14.lacity.gov/community-resources/know-your-rights)
+- [CD5 - Business Rights Guidance](https://councildistrict5.lacity.gov/BusinessRights)
 
 ---
 

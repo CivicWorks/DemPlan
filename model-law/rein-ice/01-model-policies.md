@@ -16,8 +16,11 @@ Templates and guidance documents for creating local protections.
 - Legal analysis of constitutional authority
 
 **Links:**
-- [Original Source (PDF)](https://www.ilrc.org/sites/default/files/resources/ilrc_model_policies_on_immigration_enforcement_aug_2019.pdf)
-- [Local Copy](./source-docs/ilrc-model-policies-2019.pdf)
+- [Local Policy Interventions for Protecting Immigrants (PDF)](https://www.ilrc.org/sites/default/files/resources/ilrc_local-policy-interventions_final.pdf)
+- [Model Prosecutor Policies (PDF)](https://www.ilrc.org/sites/default/files/resources/da_ilrc_model_policies_092019_0.pdf)
+- [Childcare Providers Model Policy (PDF)](https://www.ilrc.org/sites/default/files/resources/2019.09_ilrc_childcare_providers_model_policy_on_imm.pdf)
+- [Ending 287(g) Toolkit (PDF)](https://www.ilrc.org/sites/default/files/resources/2019.04_ilrc_287g_final.pdf)
+- [ILRC Enforcement Resources](https://www.ilrc.org/immigration-enforcement)
 
 ---
 
@@ -33,8 +36,9 @@ Templates and guidance documents for creating local protections.
 - Risk assessment framework
 
 **Links:**
-- [Original Source](https://www.aclu.org/legal-document/sanctuary-congregations-and-harboring-faq)
-- [Local Copy](./source-docs/aclu-sanctuary-congregations-faq.pdf)
+- [Original Source](https://www.aclu.org/documents/sanctuary-congregations-and-harboring-faq)
+- [ACLU Delaware PDF](https://www.aclu-de.org/sites/default/files/wp-content/uploads/2017/04/Sanctuary-FAQ-4-13-2017.pdf)
+- [ACLU Utah - Places of Worship Guidance (PDF)](https://www.acluutah.org/app/uploads/2025/01/aclu-ut_guidance_for_places_of_worship_responding_to_ice_encounters.pdf)
 
 ---
 
@@ -50,8 +54,9 @@ Templates and guidance documents for creating local protections.
 - Model language for educational settings
 
 **Links:**
-- [Original Source](https://www.nilc.org/issues/immigration-enforcement/practice-advisory-legal-authority-for-sanctuary-school-policies/)
-- [Local Copy](./source-docs/nilc-sanctuary-schools-advisory.pdf)
+- [Practice Advisory 2018 (PDF)](https://www.nilc.org/wp-content/uploads/2018/08/sanctuary-schools-practice-advisory-2018.pdf)
+- [Practice Advisory 2017 (PDF)](https://www.nilc.org/wp-content/uploads/2017/06/sanctuary-schools-practice-advisory-2017-06.pdf)
+- [Education Providers Know Your Rights](https://www.nilc.org/resources/education-providers-and-immigration-enforcement-know-your-rights-know-your-students-rights/)
 
 ---
 
