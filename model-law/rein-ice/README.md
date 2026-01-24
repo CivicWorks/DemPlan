@@ -14,8 +14,10 @@ A curated collection of model policies, enacted laws, and legal resources for ac
 | Limit my county jail's cooperation with ICE | [County Laws](./04-enacted-county-laws.md) |
 | Push for statewide protections | [State Laws](./05-enacted-state-laws.md) |
 | Get immediate action from my mayor | [Local Responses](./06-local-responses.md) |
-| Protect schools, churches, hospitals | [Model Policies](./01-model-policies.md) |
-| Improve transparency & accountability | [Transparency](./02-transparency-accountability.md) |
+| Protect schools, churches, hospitals | [Model Policies](./01-model-policies.md) + [CA School Laws](./05-enacted-state-laws.md#california-safe-schools-for-immigrant-students-act-ab-699) |
+| Protect my workplace/business | [Transparency](./02-transparency-accountability.md#los-angeles-business-rights-guidance) |
+| Require agent identification | [Transparency](./02-transparency-accountability.md#california-sb-627---agent-identification-requirements) |
+| Know my rights during ICE encounters | [Transparency](./02-transparency-accountability.md#nyc-comptroller---know-your-rights) |
 
 ---
 
@@ -32,11 +34,16 @@ Templates and guidance documents you can adapt for your jurisdiction.
 Resources for oversight and officer identification requirements.
 - Policy analysis frameworks
 - Legal precedent for identification requirements
+- California SB 627 (agent identification)
+- LA Business Rights, NY/NYC workplace guidance
+- Federal bills: ICE Badge Visibility Act, VISIBLE Act
 
 ### [03 - Enacted City Laws](./03-enacted-city-laws.md)
 Proven ordinances from major cities.
 - San Francisco Sanctuary Ordinance (1989)
 - Los Angeles Sanctuary Ordinance (2023)
+- New York City (Admin Code Title 9, Resolution 1321-2016)
+- Chicago Welcoming City Ordinance
 
 ### [04 - Enacted County Laws](./04-enacted-county-laws.md)
 County-level protections for jails and sheriff's departments.
@@ -45,10 +52,13 @@ County-level protections for jails and sheriff's departments.
 ### [05 - Enacted State Laws](./05-enacted-state-laws.md)
 Statewide protections - the strongest level.
 - California Values Act (SB 54)
+- California Sanctuary State Contracting Act (AB 2597)
+- California Safe Schools Act (AB 699) + AG School Guidance
 - Oregon Sanctuary Law (ORS 181A.820)
 - Illinois TRUST Act (SB 31)
 - New Jersey Immigrant Trust Directive
 - Washington Keep Washington Working Act
+- New York State AG Guidance
 
 ### [06 - Local Executive Actions](./06-local-responses.md)
 Rapid-response measures mayors can take immediately.
@@ -95,6 +105,8 @@ When evaluating or drafting sanctuary policies, look for these elements:
 | **Notification requirements** | Alerts community to enforcement actions | Strong |
 | **ICE property ban** | Prohibits use of public property for enforcement | Strong |
 | **Private prison ban** | Prohibits contracts with detention facilities | Strongest |
+| **Agent identification requirements** | Forces agents to show badges/ID | Strong |
+| **School protections** | Specific safeguards for K-12 students | Strong |
 
 ---
 

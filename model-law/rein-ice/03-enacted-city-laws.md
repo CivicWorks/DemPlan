@@ -44,6 +44,57 @@ Proven sanctuary ordinances from major cities - use as templates or precedent.
 
 ---
 
+## New York City Sanctuary Policies
+
+**Jurisdiction:** New York City, New York
+**Legal Citation:** Administrative Code Title 9, Chapter 3; Council Resolution 1321-2016
+**Status:** Enacted (multiple provisions)
+
+**Key Provisions:**
+- Limits city cooperation with federal immigration enforcement
+- Restricts ICE access to city facilities
+- Prohibits inquiries about immigration status for city services
+- Detainer policy requiring judicial warrants
+
+**Why It Matters:** Largest city in the U.S. with comprehensive sanctuary protections. Multiple overlapping policies provide layered defense.
+
+**Links:**
+- [NYC Admin Code](https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-4086)
+- [Council Resolution 1321-2016](https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=2873482&GUID=F6B6B2A2-2B6A-4B2A-8B2A-2B6A4B2A8B2A)
+- [Local Copy](./source-docs/nyc-sanctuary-policies.pdf)
+
+---
+
+## Chicago Welcoming City Ordinance
+
+**Jurisdiction:** Chicago, Illinois
+**Legal Citation:** Municipal Code of Chicago
+**Status:** Enacted
+
+**Key Provisions:**
+- Prohibits city agents from inquiring about immigration status
+- Limits cooperation with ICE unless required by law
+- Protects access to city services regardless of status
+- Restricts information sharing with federal immigration authorities
+
+**Why It Matters:** Major Midwest city with long-standing protections. Model for other cities in states without statewide sanctuary laws.
+
+**Links:**
+- [Original Source (Chicago Code)](https://codelibrary.amlegal.com/codes/chicago/latest/chicago_il/0-0-0-2465372)
+- [Local Copy](./source-docs/chicago-welcoming-city-ordinance.pdf)
+
+---
+
+## San Francisco Additional Resources
+
+**Jurisdiction:** San Francisco, California
+**Additional Link:** City government summary page
+
+**Links:**
+- [SF Gov OCEIA Summary](https://sfgov.org/oceia/sanctuary-city-ordinance-0)
+
+---
+
 ## Adapting for Your City
 
 **Population Considerations:**

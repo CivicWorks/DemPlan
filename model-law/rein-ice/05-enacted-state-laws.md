@@ -20,7 +20,86 @@ Statewide protections - the strongest form of sanctuary policy.
 
 **Links:**
 - [Original Source (CA Legislature)](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=GOV&division=7.&title=1.&part=&chapter=17.25.&article=)
+- [Bill Text](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180SB54)
 - [Local Copy](./source-docs/california-values-act-sb54.pdf)
+
+---
+
+## California Sanctuary State Contracting Act (AB 2597)
+
+**Jurisdiction:** California (statewide)
+**Legal Citation:** AB 2597
+**Status:** Enacted 2020
+
+**Key Provisions:**
+- Prohibits state contracts with private detention facilities
+- Restricts state cooperation with for-profit immigration detention
+- Applies to new contracts and contract renewals
+
+**Why It Matters:** Addresses the private prison/detention industry's role in immigration enforcement.
+
+**Links:**
+- [Original Source (CA Legislature)](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201920200AB2597)
+- [Local Copy](./source-docs/california-ab2597.pdf)
+
+---
+
+## California Safe Schools for Immigrant Students Act (AB 699)
+
+**Jurisdiction:** California (statewide)
+**Legal Citation:** AB 699
+**Status:** Enacted 2017
+
+**Key Provisions:**
+- Prohibits school personnel from collecting immigration status information
+- Restricts ICE access to school sites without superintendent permission
+- Requires notification to parents of immigration enforcement rights
+- Mandates training for school staff
+
+**Why It Matters:** Specific protections for K-12 students and families at school.
+
+**Links:**
+- [Original Source (CA Legislature)](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB699)
+- [Local Copy](./source-docs/california-ab699.pdf)
+
+---
+
+## California AG Model K-12 School Guidance
+
+**Jurisdiction:** California (statewide)
+**Type:** Attorney General Guidance
+**Status:** Active
+
+**Key Provisions:**
+- Model policies for school districts
+- Know-your-rights information for families
+- Protocols for responding to ICE requests
+- Staff training requirements
+
+**Why It Matters:** Implementation guidance for AB 699 - practical templates for school districts.
+
+**Links:**
+- [Original Source (CA OAG PDF)](https://oag.ca.gov/sites/all/files/agweb/pdfs/bcj/school-guidance-model-k12.pdf)
+- [Local Copy](./source-docs/california-ag-school-guidance.pdf)
+
+---
+
+## New York State AG Guidance on Local Authority
+
+**Jurisdiction:** New York State
+**Type:** Attorney General Guidance
+**Status:** Active
+
+**Key Provisions:**
+- Clarifies legal authority of local governments to limit ICE cooperation
+- Guidance on what localities can and cannot do
+- Constitutional framework for non-cooperation
+
+**Why It Matters:** Legal foundation for local sanctuary policies in New York.
+
+**Links:**
+- [Original Source (NY AG)](https://ag.ny.gov/sites/default/files/guidance_concerning_local_authority_participation_in_immigration_enforcement.pdf)
+- [Local Copy](./source-docs/ny-ag-local-authority-guidance.pdf)
 
 ---
 
@@ -108,9 +187,12 @@ Statewide protections - the strongest form of sanctuary policy.
 |-------|------|-----------------|------------|------------|-----------------|
 | Oregon | 1987 | Limited | No | No | No |
 | California | 2017 | Warrant required | Yes | Yes | Yes |
+| California | 2017 | (AB 699) | N/A | Schools | Yes |
+| California | 2020 | (AB 2597) | Contracts | N/A | N/A |
 | Illinois | 2017 | Warrant required | Yes | Limited | No |
 | New Jersey | 2018 | Warrant required | Restricted | No | No |
 | Washington | 2019 | Limited | No | Yes | Yes |
+| New York | N/A | (AG Guidance) | N/A | N/A | N/A |
 
 ---
 
