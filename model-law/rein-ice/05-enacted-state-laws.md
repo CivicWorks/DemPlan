@@ -21,7 +21,6 @@ Statewide protections - the strongest form of sanctuary policy.
 **Links:**
 - [Original Source (CA Legislature)](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=GOV&division=7.&title=1.&part=&chapter=17.25.&article=)
 - [Bill Text](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180SB54)
-- [Local Copy](./source-docs/california-values-act-sb54.pdf)
 
 ---
 
@@ -40,7 +39,6 @@ Statewide protections - the strongest form of sanctuary policy.
 
 **Links:**
 - [Original Source (CA Legislature)](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201920200AB2597)
-- [Local Copy](./source-docs/california-ab2597.pdf)
 
 ---
 
@@ -60,7 +58,6 @@ Statewide protections - the strongest form of sanctuary policy.
 
 **Links:**
 - [Original Source (CA Legislature)](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB699)
-- [Local Copy](./source-docs/california-ab699.pdf)
 
 ---
 
@@ -119,7 +116,6 @@ Statewide protections - the strongest form of sanctuary policy.
 
 **Links:**
 - [Original Source (OR Legislature)](https://www.oregonlegislature.gov/bills_laws/ors/ors181A.html#181A.820)
-- [Local Copy](./source-docs/oregon-sanctuary-law-ors181a.pdf)
 
 ---
 
@@ -181,7 +177,6 @@ Statewide protections - the strongest form of sanctuary policy.
 
 **Links:**
 - [Original Source (WA Legislature)](https://app.leg.wa.gov/billsummary?BillNumber=5497&Year=2019)
-- [Local Copy](./source-docs/washington-keep-working-act-sb5497.pdf)
 
 ---
 

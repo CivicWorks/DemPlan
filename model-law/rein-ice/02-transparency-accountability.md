@@ -17,7 +17,6 @@ Resources for oversight, disclosure requirements, and officer identification.
 
 **Links:**
 - [Original Source](https://www.ilrc.org/appendix-breaking-down-policy-categories)
-- [Local Copy](./source-docs/ilrc-policy-categories-appendix.pdf)
 
 ---
 
@@ -90,7 +89,6 @@ Resources for oversight, disclosure requirements, and officer identification.
 
 **Links:**
 - [Original Source (Council District 5)](https://councildistrict5.lacity.gov/BusinessRights)
-- [Local Copy](./source-docs/la-business-rights-guidance.pdf)
 
 ---
 
@@ -108,7 +106,6 @@ Resources for oversight, disclosure requirements, and officer identification.
 
 **Links:**
 - [Original Source (NY AG)](https://ag.ny.gov/immigrants-rights/ice-workplace)
-- [Local Copy](./source-docs/ny-ag-ice-workplace.pdf)
 
 ---
 

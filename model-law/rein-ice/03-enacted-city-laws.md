@@ -41,7 +41,6 @@ Proven sanctuary ordinances from major cities - use as templates or precedent.
 
 **Links:**
 - [Original Source (PDF)](https://clkrep.lacity.org/onlinedocs/2023/23-0112_ord_188086_12-04-23.pdf)
-- [Local Copy](./source-docs/la-sanctuary-ordinance-2023.pdf)
 
 ---
 

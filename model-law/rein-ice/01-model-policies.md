@@ -73,7 +73,6 @@ Templates and guidance documents for creating local protections.
 
 **Links:**
 - [Original Source](https://unitedwedream.org/resources/resilience-community-care-toolkit/)
-- [Local Copy](./source-docs/uwd-resilience-toolkit.pdf)
 
 ---
 

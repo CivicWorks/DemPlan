@@ -19,7 +19,6 @@ Quick-action measures that can be implemented by mayors and local executives wit
 
 **Links:**
 - [Original Source (City of Minneapolis)](https://www.minneapolismn.gov/government/mayor/executive-orders/executive-order-2025-02/)
-- [Local Copy](./source-docs/minneapolis-eo-2025-02.pdf)
 
 ---
 

@@ -19,7 +19,6 @@ County-level protections - critical for sheriff's departments and county jails.
 
 **Links:**
 - [Original Source (Legistar)](https://cookcounty.legistar.com/LegislationDetail.aspx?ID=1047405&GUID=F6B6A2A2-2B2B-4B2A-8B2B-2B2B2B2B2B2B&Options=ID)
-- [Local Copy](./source-docs/cook-county-sanctuary-ordinance.pdf)
 
 ---
 
