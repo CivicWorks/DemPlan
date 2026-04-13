@@ -1,4 +1,4 @@
-# DemPlan — Practical Tools for Protecting Democracy and Human Rights
+# Practical Approaches for Protecting Democracy and Human Rights
 
 Actionable legal resources, model laws, and strategy documents for people working to protect democratic institutions, immigrant communities, and civil rights at the local, state, and federal level.
 
