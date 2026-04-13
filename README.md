@@ -31,15 +31,11 @@ A curated, sourced collection of model policies, enacted laws, and legal tools f
 
 ## Broader Vision
 
-This repo covers more ground than what's fully developed so far. The [full roadmap](./vision.md) includes election protection, post-2026 legislative scenarios, structural reforms, mutual aid, and bottom-up democratic efforts. Contributions welcome — pick a section and build it out.
+This effort covers more ground than what's fully developed so far. The [full roadmap](./vision.md) includes election protection, post-2026 legislative scenarios, structural reforms, mutual aid, and bottom-up democratic efforts. Contributions welcome — pick a section and build it out.
 
 ## Contributing
 
-This is a living resource. To add new laws, expand sections, or suggest improvements:
-
-1. Submit a pull request with documented sources
-2. Ensure all links are accurate and accessible
-3. Focus on actionable, sourced content — not opinion or advocacy prose
+This is a living resource. To contribute, reach out or submit changes on [GitHub](https://github.com/CivicWorks/DemPlan). We're looking for sourced, actionable content — enacted laws, legal strategies, practical guides.
 
 ## Disclaimer
 
