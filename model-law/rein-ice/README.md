@@ -18,6 +18,9 @@ A curated collection of model policies, enacted laws, and legal resources for ac
 | Protect my workplace/business | [Transparency](./02-transparency-accountability.md#los-angeles-business-rights-guidance) |
 | Require agent identification | [Transparency](./02-transparency-accountability.md#california-sb-627---agent-identification-requirements) |
 | Know my rights during ICE encounters | [Transparency](./02-transparency-accountability.md#nyc-comptroller---know-your-rights) |
+| **Get my city attorney to act NOW (no new laws)** | [**City Attorney Existing Authority**](./07-city-attorney-existing-authority.md) |
+| Respond to pepper spray / excessive force | [City Attorney Existing Authority](./07-city-attorney-existing-authority.md) |
+| Protect voters near election day | [City Attorney — Election Scenarios](./07-city-attorney-existing-authority.md#b-federal-enforcement-activity-near-polling-places-or-during-elections) |
 
 ---
 
@@ -63,6 +66,14 @@ Statewide protections - the strongest level.
 ### [06 - Local Executive Actions](./06-local-responses.md)
 Rapid-response measures mayors can take immediately.
 - Minneapolis Executive Order 2025-02
+
+### [07 - City Attorney Existing Authority](./07-city-attorney-existing-authority.md)
+What a city attorney can do **now** without new legislation — injunctions, FTCA claims, constitutional theories, election protection.
+- Immediate action checklist after an excessive force incident
+- 9th Circuit excessive force and right-to-record precedent
+- Arizona-specific considerations (charter city authority, SB 1487 constraints)
+- Election intimidation scenarios and voter protection statutes
+- Cross-jurisdiction coordination with active 2026 litigation
 
 ---
 
