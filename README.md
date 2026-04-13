@@ -31,7 +31,7 @@ A curated, sourced collection of model policies, enacted laws, and legal tools f
 
 ## Broader Vision
 
-This repo is part of a larger effort to collect plans and resources across multiple timeframes — from immediate resistance (2025-2026) through election protection, post-2026 legislative scenarios, and long-term structural reform. See [vision.md](./vision.md) for the full roadmap and topic areas we intend to develop.
+This repo covers more ground than what's fully developed so far. The [full roadmap](./vision.md) includes election protection, post-2026 legislative scenarios, structural reforms, mutual aid, and bottom-up democratic efforts. Contributions welcome — pick a section and build it out.
 
 ## Contributing
 
