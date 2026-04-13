@@ -1,130 +1,50 @@
-# Restore Democracy Wiki
+# DemPlan — Practical Tools for Protecting Democracy and Human Rights
 
-## Mission
-Collect links, templates, resources and plans to counter Project 2025, restore democracy in US, advance human rights & democracy and justice/evidence-based systems globally.  
+Actionable legal resources, model laws, and strategy documents for people working to protect democratic institutions, immigrant communities, and civil rights at the local, state, and federal level.
 
-Many independent efforts are underway, here is one possibly useful view into them, as well as a place to add ideas.
+## What's Here
 
-## Now - 2026: Stopping Authoritarianism
+### [Model Laws: REIN-ICE](./model-law/rein-ice/)
 
-### Effective Resistance at All Levels
-- **Federal Level**
-   - how to get & run meetings
-   - what staffers can do
-   - levels of what electeds can do
-- **State Level**
-   - sample legislation (ie no masked law enforcement)
-- **City & County Level**  
-   - Sheriffs and Police Chiefs (no 287 cooperation)
-   - sample city council resolutions
-   - school boards & administrators
-- **Media, Affinity Groups and Influencers**
-   - engaging with civic / religious groups
-- **Businesses**
-   - local business solidarity requests
-   - boycotts & protests 
-   - messaging to board members
-- **Community Level**
-   - neighborhood organizing
-   - finding existing groups 
-   - mutual defense/rapid response/ice observers
-   - building networks and connections
-- **Household & Individual Level**
-   - resilience planning
-   - reading lists
+**Restraining Enforcement through Informed Noncooperation — Immigration & Customs Enforcement**
 
-### Hope and Mutual Aid Throughout
-- **Challenges People Facing**
-- **Ways Communities Can Meet Immediate Needs**
-- **Ways to Build Positive Community and Joy**
+A curated, sourced collection of model policies, enacted laws, and legal tools for limiting local cooperation with federal immigration enforcement and protecting communities from overreach.
 
-### Protecting the 2026 Election
-- **Election Machines & Process**
-- **Countering Voter Intimidation**
-   - hotline
-- **Countering Any 'Steal' Narrative**
-- **Audits Ready**
+| Resource | Description |
+|----------|-------------|
+| [Model Policies](./model-law/rein-ice/01-model-policies.md) | Templates from ILRC, ACLU, NILC, United We Dream — adapt for your jurisdiction |
+| [Transparency & Accountability](./model-law/rein-ice/02-transparency-accountability.md) | Agent identification requirements, oversight frameworks, know-your-rights resources |
+| [Enacted City Laws](./model-law/rein-ice/03-enacted-city-laws.md) | Proven ordinances from San Francisco, Los Angeles, New York, Chicago |
+| [Enacted County Laws](./model-law/rein-ice/04-enacted-county-laws.md) | County-level protections for jails and sheriff's departments |
+| [Enacted State Laws](./model-law/rein-ice/05-enacted-state-laws.md) | Statewide protections — California, Oregon, Illinois, New Jersey, Washington, New York |
+| [Local Executive Actions](./model-law/rein-ice/06-local-responses.md) | What mayors can do immediately without legislation |
+| [**City Attorney: Existing Authority**](./model-law/rein-ice/07-city-attorney-existing-authority.md) | What a city attorney can do **now** — injunctions, FTCA claims, constitutional theories, election protection. 9th Circuit and Arizona-specific. |
 
-## 2026 Scenarios
+### Other Sections (in progress)
 
-### If Dem Majority in House
-- **Budget Authority**
-- **Hard stop - nothing moves forward**
-- **Hearings**
-- 
+| Resource | Description |
+|----------|-------------|
+| [Structural Reforms](./reforms/structural.md) | Long-term reforms if democracy is restored (2029+) |
+| [State-Level Resistance](./resistance/state.md) | State-level strategies for the current period |
+| [Housing Works](./big-ideas/housing-works.md) | Work-to-own housing program concept |
+| [Abolish ICE Draft](./reforms/abolishICE/draft1.md) | Draft proposal for restructuring immigration enforcement |
 
-### If Not Any Majority
- same as now
+## Broader Vision
 
-### If Dem + Independent Majority in House + Senate
+This repo is part of a larger effort to collect plans and resources across multiple timeframes — from immediate resistance (2025-2026) through election protection, post-2026 legislative scenarios, and long-term structural reform. See [vision.md](./vision.md) for the full roadmap and topic areas we intend to develop.
 
- - **cut all funds to ice, dhs**
- - **pass strong legislation to control use of force immediately**
- - **impeach & convict**
+## Contributing
 
+This is a living resource. To add new laws, expand sections, or suggest improvements:
 
-## 2029: If Return to Democracy - How to Prevent Again
+1. Submit a pull request with documented sources
+2. Ensure all links are accurate and accessible
+3. Focus on actionable, sourced content — not opinion or advocacy prose
 
-### Structural Reforms
-- **DC Statehood**
-- **Puerto Rico Constitutional Status Assembly**
-    - Support a deliberative process for Puerto Ricans to determine their status
-    - Options could include statehood, enhanced commonwealth, free association, or independence
-    - Ensure full representation and self-determination in the process
-- **Defund ICE - Refund IRS**
-- **Enforce Existing Tax Laws and Fund Cities**
-- **Fast-track Pathway to Citizenship**
+## Disclaimer
 
-### Accountability & Justice
-- **Aggressively Prosecute All Crimes Committed**
-- **Assist with Civil Lawsuits for Damage Done**
-- **Rapid Wealth Transfer Back to Victims**
-- **Global appraoch: give standing to victims outside US**
+This collection is for informational purposes. Consult with legal counsel before implementing any policies or initiating litigation. Laws and political circumstances change — verify current status before relying on any specific provision.
 
-### Institutional Protection
-- **Expand Supreme Court to 13**
-- **Civil Service Protection**
-- **Independence of FCC, SEC, Other Key Agencies - How Entrench**
+---
 
-### Public Safety Reform
-- **Remove Police and All Law Enforcement that Participated in Bounties**
-- **Recruit and Fund Civil Society First Responders**
-- **Detransition and Truth & Reconciliation**
-
-### Possible new approaches
-- ** prevent remote ownership of property and resources - local control
-- ** back cooperative ownership - loan guarantees
-- ** efficient legal pathways for renters to buy buildings
-
-## Bottom-up and Parallel Efforts
-
-independent of power structures, some further out ideas
-
-### small-d democracy
-
-- ** cooperatives - existing models - credit unions, various existing
-- ** democratically run corporations under current models
-- ** democratically run schools, mobile home parks, apartment buildings - models?
-
-### consumer and investor choices
-
-- ** consumer choice apps
-- ** democracy focused investment funds
-
-### decentralized media and information
-
-### mutual defense and aid pacts
-
-### local currencies
-
-### housing works
-
-- **work-to-own housing program**
-    - pay minimum wage + home credits for building homes
-    - open to all including unhoused - immediate work opportunity
-    - skilled workers guide and train participants
-    - on-site temporary housing for workers
-    - builders get first purchase rights with forgivable mortgage
-    - 10-year owner-occupancy requirement for mortgage forgiveness
-    - combines immediate income, job training, and path to homeownership
-
+*Maintained by [CivicWorks](https://github.com/CivicWorks)*

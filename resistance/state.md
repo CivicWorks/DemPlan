@@ -1,6 +1,6 @@
 # State Level Resistance
 
-[← Back to Index](../index.md)
+[← Back to Home](../README.md)
 
 ## Federal Tax Withholding / Escrow Strategies
 
