@@ -20,6 +20,12 @@ A curated, sourced collection of model policies, enacted laws, and legal tools f
 | [Local Executive Actions](./model-law/rein-ice/06-local-responses.md) | What mayors can do immediately without legislation |
 | [**City Attorney: Existing Authority**](./model-law/rein-ice/07-city-attorney-existing-authority.md) | What a city attorney can do **now** — injunctions, FTCA claims, constitutional theories, election protection. 9th Circuit and Arizona-specific. |
 
+### [Community-Owned Utilities](./model-law/community-owned/)
+
+| Resource | Description |
+|----------|-------------|
+| [Electric Utility Models](./model-law/community-owned/electric-utility-models.md) | Municipal and community-owned electric utilities — from Boulder's municipalization effort to long-established systems like SMUD and Austin Energy |
+
 ### Other Sections (in progress)
 
 | Resource | Description |
