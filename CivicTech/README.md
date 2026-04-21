@@ -1,20 +1,48 @@
 # CivicTech — Tools for Bottom-Up Democracy
 
-Platforms, protocols, and proposals for participatory decision-making, deliberation, community governance, and earned ownership. Curated for parties, NGOs, local governments, and organizations building democratic infrastructure from the ground up.
+Platforms, protocols, and proposals for participatory decision-making, deliberation, community governance, and earned ownership. Curated for parties, NGOs, local governments, corporations, schools, and community organizations building democratic infrastructure from the ground up.
 
-## Earned Governance — Bottom-Up by Design
+## LinkedTrust Case Study — Earned Governance in Action
 
-A proposal from LinkedTrust for governance and equity that is earned through tracked contribution rather than granted. Full proposal: [demos.linkedtrust.us/earnedgov](https://demos.linkedtrust.us/earnedgov/).
+**What's Cookin' Inc DBA LinkedTrust** is a US Public Benefit Corporation running a globally distributed team under bylaws that require governance to be earned and the CEO to be elected. Equity is shared across the whole team — workers and investors — through a Rolling SAFE on Fairmint, in a single tokenized cap table. The model evolved from operating tensions: fairness to global employees working with limited funding, scrappy bootstrapping that can't afford lengthy deliberation, and the need for authentic power-sharing and accountability.
 
-| Component | How It Works | Why It's Bottom-Up |
-|-----------|--------------|--------------------|
-| **Task-to-Token Equity** | Granular ownership earned through tracked contributions; stipends + Rolling SAFE shares | Every contributor accrues ownership; no gatekeeper allocation |
-| **CEO Selection** | Ranked-choice voting weighted by work contribution | Leadership authority derives from demonstrated contribution, not appointment |
-| **Equity Distribution** | Rolling SAFE — all team members share automatically | No "founders vs. hires" class split |
-| **Governance Bylaws** | Bylaws mandate governance is *earned, not granted* | Written into the corporate charter, not left to culture |
-| **Transparency Not Permission** | Visibility into decisions replaces voting delays | Trust via openness rather than veto power |
-| **Structure** | US Public Benefit Corporation (What's Cookin' Inc DBA LinkedTrust) | Legal form binds the mission |
-| **Program** | 12-week accelerator pairing legal structures (Fairmint / Slicing Pie) with work-tracking | Reproducible — any team can adopt the OS |
+**Three-part working model**
+- **Transparency Not Permission** — Visibility into resource allocation and decision-making substitutes for most voting, on the OSS principle that "with enough eyes, all bugs are shallow."
+- **Earned Governance** — Governance rights accrue to contributors through peer-reviewed tasks, without separate overhead.
+- **Democratic Leadership** — CEO is elected by ranked-choice, work-weighted vote. Profit allocation runs through member proposals to a rotating steering committee.
+
+**Anti-capture design.** Governance rights must be earned through contributions, which is designed to resist both external hostile takeovers (the "corporate body-snatch" problem — democracy dies, users get no vote, sold-out startups) and internal power grabs. "Opportunity to Object" is written into the bylaws.
+
+**Scale stack (spreadable via accelerator)**
+- Legal templates: PBC docs + Fairmint Rolling SAFE
+- Governance playbook (living repo with AI helpers for processes)
+- Task-to-Token toolkit (task trackers, peer review, story points)
+- Human expert guides
+
+**Full case study (PDF):** [Earned Governance in Action](./LinkedTrust-Case-Study-Earned-Governance.pdf)
+
+**Contact:** Golda Velez ([golda@linkedtrust.us](mailto:golda@linkedtrust.us)), Gitonga Miriam Njeri ([gitonga@linkedtrust.us](mailto:gitonga@linkedtrust.us)) · [linkedtrust.us](https://linkedtrust.us) · Proposal: [demos.linkedtrust.us/earnedgov](https://demos.linkedtrust.us/earnedgov/)
+
+## Bottom-Up Governance Models
+
+Legal, financial, and structural models for small-d democracy across corporations, platforms, schools, and community entities.
+
+**Foundational reference:** Elinor Ostrom's [8 Design Principles for Commons Governance](https://patternsofcommoning.org/uncategorized/eight-design-principles-for-successful-commons/) — the empirical basis (Nobel Prize in Economics, 2009) for why self-governing communities can sustain shared resources without top-down control or privatization. Every model below implements some subset of these principles.
+
+| Model | Mechanism | Reach / Used By | Link |
+|-------|-----------|-----------------|------|
+| **LinkedTrust / Earned Governance** | Rolling SAFE + task-to-token equity; CEO elected by ranked-choice work-weighted vote; Opportunity to Object in bylaws; PBC structure | What's Cookin' Inc (US Public Benefit Corp); global distributed team | [demos.linkedtrust.us/earnedgov](https://demos.linkedtrust.us/earnedgov/) |
+| **Slicing Pie** | Dynamic equity formula that adjusts shares in real time based on tracked contributions of time, cash, and resources | Startups, Encode.org, Harvard Business School case | [slicingpie.com](https://slicingpie.com) |
+| **Steward Ownership (Purpose Foundation)** | Legal structures (Single Foundation, Double Foundation, Golden Share) that bake self-governance + purpose-driven profit allocation into corporate bylaws | Model derived from Bosch, Zeiss; term coined by Purpose Foundation (2017); used by mission-driven companies in DE, US, UK | [purpose-economy.org](https://purpose-economy.org/en/) |
+| **ESOPs (NCEO)** | Employees own shares through a company-funded trust; retirement-plan structure with broad-based ownership | ~6,609 ESOPs, 15.1M participants, $2.1T in assets (US, 2023 data) | [nceo.org](https://www.nceo.org/) · [esop.org](https://www.esop.org/) |
+| **Worker Cooperatives (USFWC + Democracy at Work Institute)** | One-member-one-vote worker-owned businesses; Federation + think-tank providing legal/financial/advocacy infrastructure | ~1,300 US worker co-ops, ~15,000 workers, 450+ Federation members | [usworker.coop](https://www.usworker.coop/) · [institute.coop](https://institute.coop/) |
+| **Platform Cooperativism Consortium** | Research/advocacy hub for platform co-ops — digital platforms cooperatively owned and democratically governed by workers and users | Global network based at The New School; supports hundreds of platform co-ops with tens of thousands of worker-owners | [platform.coop](https://platform.coop/) |
+| **Community Land Trusts (Grounded Solutions / CLT Network)** | Tripartite board: 1/3 leaseholders, 1/3 broader community residents, 1/3 public/professional stakeholders; keeps land permanently community-controlled | 260+ CLTs in 46 US states, DC, and Puerto Rico | [groundedsolutions.org](https://groundedsolutions.org/strengthening-neighborhoods/community-land-trusts/) · [cltweb.org](https://www.cltweb.org/) |
+| **Open Collective / Open Finance Consortium** | Transparent ledger for community funds (every inflow/outflow visible); platform itself transitioned to community-governed nonprofit (OFiCo) in 2024 | Thousands of open-source projects, mutual aid groups, civic collectives | [opencollective.com](https://opencollective.com/) · [opencollective.foundation](https://opencollective.foundation/) |
+| **Sudbury Model (democratic schools)** | Weekly School Meeting run as direct democracy: one-person-one-vote (student vote equals adult vote); Meeting has final authority over rules, budget, hiring and firing | Sudbury Valley School + ~60 sister schools worldwide | [Wikipedia](https://en.wikipedia.org/wiki/Sudbury_school) |
+| **Aragon** | Open-source DAO framework for on-chain governance — proposals, voting, treasury management, modular permissions | 1,700+ organizations, $3B+ in total project value; used by Lido, Curve, Taiko | [aragon.org](https://www.aragon.org/) |
+| **Snapshot** | Gasless off-chain voting via wallet signatures; results stored on IPFS and verified cryptographically | 9,645+ projects incl. ENS, Gitcoin, Aave, Uniswap, Sushi | [snapshot.box](https://docs.snapshot.box/) |
+| *Holacracy* | Open-source constitution (CC BY-SA 4.0) for self-management through Roles, Circles, and consent-based governance | *Included for completeness — sustained adoption has been limited in practice* | [holacracy.org](https://www.holacracy.org/) |
 
 ## Index
 

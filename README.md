@@ -26,6 +26,12 @@ A curated, sourced collection of model policies, enacted laws, and legal tools f
 |----------|-------------|
 | [Electric Utility Models](./model-law/community-owned/electric-utility-models.md) | Municipal and community-owned electric utilities — from Boulder's municipalization effort to long-established systems like SMUD and Austin Energy |
 
+### [CivicTech — Tools for Bottom-Up Democracy](./CivicTech/)
+
+| Resource | Description |
+|----------|-------------|
+| [CivicTech Overview](./CivicTech/) | Earned governance, participatory budgeting, deliberation platforms, community tools. Anchored by the [LinkedTrust case study](./CivicTech/LinkedTrust-Case-Study-Earned-Governance.pdf) and Elinor Ostrom's design principles for commons governance. |
+
 ### Other Sections (in progress)
 
 | Resource | Description |
